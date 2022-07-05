@@ -11,9 +11,9 @@
 - CSS & SCSS
 - JavaScript
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://masangana.github.io/furry-eureka/)
 
 
 ## Getting Started
